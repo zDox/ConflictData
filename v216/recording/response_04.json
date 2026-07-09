@@ -1,0 +1,4251 @@
+{
+  "map_id": "12365_5",
+  "response": {
+    "@c": "ultshared.rpc.json.UltJsonResult",
+    "action": "UltUpdateGameStateAction",
+    "requestID": "7",
+    "result": {
+      "@c": "ultshared.UltAutoGameState",
+      "actionResults": {
+        "@c": "java.util.HashMap",
+        "actionReq-0": 1
+      },
+      "stateID": "5499009982093",
+      "stateType": 0,
+      "states": {
+        "2": {
+          "@c": "ultshared.UltNewspaperState",
+          "articles": [
+            "java.util.Vector",
+            [
+              {
+                "@c": "ultshared.UltStatisticsArticle",
+                "allianceID": -1,
+                "author": "Politics ",
+                "authorID": -3,
+                "date": [
+                  "java.sql.Date",
+                  1783585220515
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "messageBody": "The trending \"Most Beloved Leader\" poll surprising results:\n1st: {{{countryLink 'Algeria' '1'}}},  Ishak Dehar\n2nd: {{{countryLink 'DR Congo' '2'}}},  Alphonse Ilunga Tshilombo\n3rd: {{{countryLink 'Egypt' '3'}}},  Ahmed Hamaki\n4th: {{{countryLink 'South Africa' '4'}}},  Mieke Dlamini\n5th: {{{countryLink 'China' '5'}}},  Xing Zheyuan\n6th: {{{countryLink 'India' '6'}}},  Salman Kapoor\n7th: {{{countryLink 'Indonesia' '7'}}},  Raffi Ayunda\n8th: {{{countryLink 'Iran' '8'}}},  Reza Abdi\n9th: {{{countryLink 'Japan' '9'}}},  Matsushita Naki\n10th: {{{countryLink 'Saudi Arabia' '10'}}},  Adnan Karam\n11th: {{{countryLink 'Thailand' '11'}}},  Adulyadej Saetang\n12th: {{{countryLink 'Turkey' '12'}}},  Burak Yaman\n13th: {{{countryLink 'France' '13'}}},  Marion Seydoux\n14th: {{{countryLink 'Germany' '14'}}},  Klaus Kruger\n15th: {{{countryLink 'Italy' '15'}}},  Nicola Pinelli\n16th: {{{countryLink 'Poland' '16'}}},  Tomasz Olbrychski\n17th: {{{countryLink 'Russia' '17'}}},  Sergei Kasparov\n18th: {{{countryLink 'Sweden' '18'}}},  Lars Jakobsson\n19th: {{{countryLink 'United Kingdom' '19'}}},  David Atkinson\n20th: {{{countryLink 'Canada' '20'}}},  Olivia Bergeron\n21st: {{{countryLink 'Mexico' '21'}}},  Pablo Hernandez\n22nd: {{{countryLink 'United States' '22'}}},  Troy Smith\n23rd: {{{countryLink 'Argentina' '23'}}},  Isabella Gonzalez\n24th: {{{countryLink 'Brazil' '24'}}},  Andre Pedreira\n25th: {{{countryLink 'Colombia' '25'}}},  Carlos Lopez\n",
+                "messageUID": 10001,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiverFlagID": -1,
+                "receiverID": -1,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": -1,
+                "shownRanks": 25,
+                "time": [
+                  "java.sql.Time",
+                  "10:20:20"
+                ],
+                "timeStamp": 1783585220000,
+                "title": "Most Popular Trending Nations "
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 In-Game Rules ",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585221350
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "This game of World War 3's set of rules: \n\n\nMinimum activity period : 2 days\n  (Specifies the time after which a player is taken over by the AI and can be replaced by the game admin.)\n",
+                "messageUID": 10002,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "",
+                "receiverFlagID": -1,
+                "receiverID": -1,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": -1,
+                "time": [
+                  "java.sql.Time",
+                  "10:20:21"
+                ],
+                "timeStamp": 1783585221000,
+                "title": "Additional Game Rules"
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585194000
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "This game of World War 3 has started. Commanders are now able to issue orders to their troops.\n\nBe sure to make new allies and watch your back in the challenging days ahead.\nOpen player slots will be filled with human opponents in the coming hours.",
+                "messageUID": 10003,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "",
+                "receiverFlagID": -1,
+                "receiverID": -1,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": -1,
+                "time": [
+                  "java.sql.Time",
+                  "10:19:54"
+                ],
+                "timeStamp": 1783585194000,
+                "title": "Game Started"
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585265832
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Israel' '41'}}} has a new military commander. From now on ciekawyanglik will control the forces of this nation.",
+                "messageUID": 10004,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "ciekawyanglik",
+                "receiverFlagID": -1,
+                "receiverID": 41,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 41,
+                "time": [
+                  "java.sql.Time",
+                  "10:21:05"
+                ],
+                "timeStamp": 1783585265000,
+                "title": "ciekawyanglik has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585296253
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Australia' '26'}}} has a new military commander. From now on user170536014 will control the forces of this nation.",
+                "messageUID": 10005,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170536014",
+                "receiverFlagID": -1,
+                "receiverID": 26,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 26,
+                "time": [
+                  "java.sql.Time",
+                  "10:21:36"
+                ],
+                "timeStamp": 1783585296000,
+                "title": "user170536014 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585308765
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Ukraine' '66'}}} has a new military commander. From now on user170546348 will control the forces of this nation.",
+                "messageUID": 10006,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170546348",
+                "receiverFlagID": -1,
+                "receiverID": 66,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 66,
+                "time": [
+                  "java.sql.Time",
+                  "10:21:48"
+                ],
+                "timeStamp": 1783585308000,
+                "title": "user170546348 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585322976
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Russia' '17'}}} has a new military commander. From now on Youssef 239 will control the forces of this nation.",
+                "messageUID": 10007,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Youssef 239",
+                "receiverFlagID": -1,
+                "receiverID": 17,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 17,
+                "time": [
+                  "java.sql.Time",
+                  "10:22:02"
+                ],
+                "timeStamp": 1783585322000,
+                "title": "Youssef 239 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585344012
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'China' '5'}}} has a new military commander. From now on user152321785 will control the forces of this nation.",
+                "messageUID": 10008,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user152321785",
+                "receiverFlagID": -1,
+                "receiverID": 5,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 5,
+                "time": [
+                  "java.sql.Time",
+                  "10:22:24"
+                ],
+                "timeStamp": 1783585344000,
+                "title": "user152321785 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585361929
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'United Kingdom' '19'}}} has a new military commander. From now on user142849152 will control the forces of this nation.",
+                "messageUID": 10009,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user142849152",
+                "receiverFlagID": -1,
+                "receiverID": 19,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 19,
+                "time": [
+                  "java.sql.Time",
+                  "10:22:41"
+                ],
+                "timeStamp": 1783585361000,
+                "title": "user142849152 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585378567
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'United States' '22'}}} has a new military commander. From now on Dragon slayer 33748 will control the forces of this nation.",
+                "messageUID": 10010,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Dragon slayer 33748",
+                "receiverFlagID": -1,
+                "receiverID": 22,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 22,
+                "time": [
+                  "java.sql.Time",
+                  "10:22:58"
+                ],
+                "timeStamp": 1783585378000,
+                "title": "Dragon slayer 33748 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585397371
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'France' '13'}}} has a new military commander. From now on Rossscco will control the forces of this nation.",
+                "messageUID": 10011,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Rossscco",
+                "receiverFlagID": -1,
+                "receiverID": 13,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 13,
+                "time": [
+                  "java.sql.Time",
+                  "10:23:17"
+                ],
+                "timeStamp": 1783585397000,
+                "title": "Rossscco has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585398421
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Mexico' '21'}}} has a new military commander. From now on Nasper will control the forces of this nation.",
+                "messageUID": 10012,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Nasper",
+                "receiverFlagID": -1,
+                "receiverID": 21,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 21,
+                "time": [
+                  "java.sql.Time",
+                  "10:23:18"
+                ],
+                "timeStamp": 1783585398000,
+                "title": "Nasper has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585399649
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Poland' '16'}}} has a new military commander. From now on Ryddig_boy will control the forces of this nation.",
+                "messageUID": 10013,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Ryddig_boy",
+                "receiverFlagID": -1,
+                "receiverID": 16,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 16,
+                "time": [
+                  "java.sql.Time",
+                  "10:23:19"
+                ],
+                "timeStamp": 1783585399000,
+                "title": "Ryddig_boy has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585406219
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Germany' '14'}}} has a new military commander. From now on user170535050 will control the forces of this nation.",
+                "messageUID": 10014,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170535050",
+                "receiverFlagID": -1,
+                "receiverID": 14,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 14,
+                "time": [
+                  "java.sql.Time",
+                  "10:23:26"
+                ],
+                "timeStamp": 1783585406000,
+                "title": "user170535050 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585408941
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Brazil' '24'}}} has a new military commander. From now on Jbiced will control the forces of this nation.",
+                "messageUID": 10015,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Jbiced",
+                "receiverFlagID": -1,
+                "receiverID": 24,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 24,
+                "time": [
+                  "java.sql.Time",
+                  "10:23:28"
+                ],
+                "timeStamp": 1783585408000,
+                "title": "Jbiced has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585469405
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Sweden' '18'}}} has a new military commander. From now on Cafelix0 will control the forces of this nation.",
+                "messageUID": 10016,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Cafelix0",
+                "receiverFlagID": -1,
+                "receiverID": 18,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 18,
+                "time": [
+                  "java.sql.Time",
+                  "10:24:29"
+                ],
+                "timeStamp": 1783585469000,
+                "title": "Cafelix0 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585493881
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Canada' '20'}}} has a new military commander. From now on Туріст will control the forces of this nation.",
+                "messageUID": 10017,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Туріст",
+                "receiverFlagID": -1,
+                "receiverID": 20,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 20,
+                "time": [
+                  "java.sql.Time",
+                  "10:24:53"
+                ],
+                "timeStamp": 1783585493000,
+                "title": "Туріст has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585510481
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'New Zealand' '82'}}} has a new military commander. From now on user27536259 will control the forces of this nation.",
+                "messageUID": 10018,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user27536259",
+                "receiverFlagID": -1,
+                "receiverID": 82,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 82,
+                "time": [
+                  "java.sql.Time",
+                  "10:25:10"
+                ],
+                "timeStamp": 1783585510000,
+                "title": "user27536259 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585551885
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Japan' '9'}}} has a new military commander. From now on user169490336 will control the forces of this nation.",
+                "messageUID": 10019,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user169490336",
+                "receiverFlagID": -1,
+                "receiverID": 9,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 9,
+                "time": [
+                  "java.sql.Time",
+                  "10:25:51"
+                ],
+                "timeStamp": 1783585551000,
+                "title": "user169490336 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585558643
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Chad' '28'}}} has a new military commander. From now on King_Choccy_VI will control the forces of this nation.",
+                "messageUID": 10020,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "King_Choccy_VI",
+                "receiverFlagID": -1,
+                "receiverID": 28,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 28,
+                "time": [
+                  "java.sql.Time",
+                  "10:25:58"
+                ],
+                "timeStamp": 1783585558000,
+                "title": "King_Choccy_VI has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585611636
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Spain' '97'}}} has a new military commander. From now on Agent2.1234543 will control the forces of this nation.",
+                "messageUID": 10021,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Agent2.1234543",
+                "receiverFlagID": -1,
+                "receiverID": 97,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 97,
+                "time": [
+                  "java.sql.Time",
+                  "10:26:51"
+                ],
+                "timeStamp": 1783585611000,
+                "title": "Agent2.1234543 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585658101
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'India' '6'}}} has a new military commander. From now on Riccardo09 will control the forces of this nation.",
+                "messageUID": 10022,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Riccardo09",
+                "receiverFlagID": -1,
+                "receiverID": 6,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 6,
+                "time": [
+                  "java.sql.Time",
+                  "10:27:38"
+                ],
+                "timeStamp": 1783585658000,
+                "title": "Riccardo09 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585671283
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Turkey' '12'}}} has a new military commander. From now on Kheiri3 will control the forces of this nation.",
+                "messageUID": 10023,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Kheiri3",
+                "receiverFlagID": -1,
+                "receiverID": 12,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 12,
+                "time": [
+                  "java.sql.Time",
+                  "10:27:51"
+                ],
+                "timeStamp": 1783585671000,
+                "title": "Kheiri3 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585704411
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Finland' '57'}}} has a new military commander. From now on Kasmos-FR will control the forces of this nation.",
+                "messageUID": 10024,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Kasmos-FR",
+                "receiverFlagID": -1,
+                "receiverID": 57,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 57,
+                "time": [
+                  "java.sql.Time",
+                  "10:28:24"
+                ],
+                "timeStamp": 1783585704000,
+                "title": "Kasmos-FR has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585756497
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Italy' '15'}}} has a new military commander. From now on user170525586 will control the forces of this nation.",
+                "messageUID": 10025,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170525586",
+                "receiverFlagID": -1,
+                "receiverID": 15,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 15,
+                "time": [
+                  "java.sql.Time",
+                  "10:29:16"
+                ],
+                "timeStamp": 1783585756000,
+                "title": "user170525586 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585777384
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Kenya' '35'}}} has a new military commander. From now on K1NGZLAY3RR will control the forces of this nation.",
+                "messageUID": 10026,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "K1NGZLAY3RR",
+                "receiverFlagID": -1,
+                "receiverID": 35,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 35,
+                "time": [
+                  "java.sql.Time",
+                  "10:29:37"
+                ],
+                "timeStamp": 1783585777000,
+                "title": "K1NGZLAY3RR has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585784902
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Colombia' '25'}}} has a new military commander. From now on user170524417 will control the forces of this nation.",
+                "messageUID": 10027,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170524417",
+                "receiverFlagID": -1,
+                "receiverID": 25,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 25,
+                "time": [
+                  "java.sql.Time",
+                  "10:29:44"
+                ],
+                "timeStamp": 1783585784000,
+                "title": "user170524417 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585838819
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Cuba' '68'}}} has a new military commander. From now on user170545879 will control the forces of this nation.",
+                "messageUID": 10028,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170545879",
+                "receiverFlagID": -1,
+                "receiverID": 68,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 68,
+                "time": [
+                  "java.sql.Time",
+                  "10:30:38"
+                ],
+                "timeStamp": 1783585838000,
+                "title": "user170545879 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585841424
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Argentina' '23'}}} has a new military commander. From now on user170439119 will control the forces of this nation.",
+                "messageUID": 10029,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170439119",
+                "receiverFlagID": -1,
+                "receiverID": 23,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 23,
+                "time": [
+                  "java.sql.Time",
+                  "10:30:41"
+                ],
+                "timeStamp": 1783585841000,
+                "title": "user170439119 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585882671
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Ethiopia' '86'}}} has a new military commander. From now on flamingobj will control the forces of this nation.",
+                "messageUID": 10030,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "flamingobj",
+                "receiverFlagID": -1,
+                "receiverID": 86,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 86,
+                "time": [
+                  "java.sql.Time",
+                  "10:31:22"
+                ],
+                "timeStamp": 1783585882000,
+                "title": "flamingobj has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585917750
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Romania' '96'}}} has a new military commander. From now on user170540387 will control the forces of this nation.",
+                "messageUID": 10031,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170540387",
+                "receiverFlagID": -1,
+                "receiverID": 96,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 96,
+                "time": [
+                  "java.sql.Time",
+                  "10:31:57"
+                ],
+                "timeStamp": 1783585917000,
+                "title": "user170540387 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585958497
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Iran' '8'}}} has a new military commander. From now on user170392423 will control the forces of this nation.",
+                "messageUID": 10032,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user170392423",
+                "receiverFlagID": -1,
+                "receiverID": 8,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 8,
+                "time": [
+                  "java.sql.Time",
+                  "10:32:38"
+                ],
+                "timeStamp": 1783585958000,
+                "title": "user170392423 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585977035
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Peru' '98'}}} has a new military commander. From now on user165084569 will control the forces of this nation.",
+                "messageUID": 10033,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "user165084569",
+                "receiverFlagID": -1,
+                "receiverID": 98,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 98,
+                "time": [
+                  "java.sql.Time",
+                  "10:32:57"
+                ],
+                "timeStamp": 1783585977000,
+                "title": "user165084569 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783586042056
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Iraq' '40'}}} has a new military commander. From now on Chedryk will control the forces of this nation.",
+                "messageUID": 10034,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Chedryk",
+                "receiverFlagID": -1,
+                "receiverID": 40,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 40,
+                "time": [
+                  "java.sql.Time",
+                  "10:34:02"
+                ],
+                "timeStamp": 1783586042000,
+                "title": "Chedryk has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783586179365
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'Pakistan' '47'}}} has a new military commander. From now on Extengio will control the forces of this nation.",
+                "messageUID": 10035,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Extengio",
+                "receiverFlagID": -1,
+                "receiverID": 47,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 47,
+                "time": [
+                  "java.sql.Time",
+                  "10:36:19"
+                ],
+                "timeStamp": 1783586179000,
+                "title": "Extengio has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "World War 3 Game System",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783586263751
+                ],
+                "day": 1,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "{{{countryLink 'North Korea' '90'}}} has a new military commander. From now on Xanene-Gene03 will control the forces of this nation.",
+                "messageUID": 10036,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "Xanene-Gene03",
+                "receiverFlagID": -1,
+                "receiverID": 90,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 90,
+                "time": [
+                  "java.sql.Time",
+                  "10:37:43"
+                ],
+                "timeStamp": 1783586263000,
+                "title": "Xanene-Gene03 has taken command."
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585910000
+                ],
+                "day": 0,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "imageID": {
+                  "height": 120,
+                  "imageID": 16778020,
+                  "width": 170
+                },
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "<p><span class='event_time'>{{{ gameTimeFromTimestampString 1783585910147 true }}}</span> Invasion! Without prior warning, user170545879's units have crossed the border and are now engaged in combat with Robert Selassie.\n</p>",
+                "messageUID": 1080068,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "",
+                "receiverFlagID": -1,
+                "receiverID": 68,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 108,
+                "time": [
+                  "java.sql.Time",
+                  "10:31:50"
+                ],
+                "timeStamp": 1783585910000,
+                "title": "Deceitful Act of War"
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585952000
+                ],
+                "day": 0,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "imageID": {
+                  "height": 113,
+                  "imageID": 16778013,
+                  "width": 170
+                },
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "<p><span class='event_time'>{{{ gameTimeFromTimestampString 1783585952666 true }}}</span> Invasion! Without prior warning, user170535050's units have crossed the border and are now engaged in combat with Famke Verhoeven.\n</p>",
+                "messageUID": 620014,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "",
+                "receiverFlagID": -1,
+                "receiverID": 14,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 62,
+                "time": [
+                  "java.sql.Time",
+                  "10:32:32"
+                ],
+                "timeStamp": 1783585952000,
+                "title": "Deceitful Act of War"
+              },
+              {
+                "@c": "ultshared.UltArticle",
+                "address": "",
+                "allianceID": -1,
+                "author": "",
+                "authorID": -2,
+                "date": [
+                  "java.sql.Date",
+                  1783585794000
+                ],
+                "day": 0,
+                "deletedByReceiver": false,
+                "deletedBySender": false,
+                "extended": 0,
+                "imageID": {
+                  "height": 120,
+                  "imageID": 16778010,
+                  "width": 170
+                },
+                "intercepted": [
+                  "java.util.Vector",
+                  []
+                ],
+                "messageBody": "<p><span class='event_time'>{{{ gameTimeFromTimestampString 1783585794952 true }}}</span> Invasion! Without prior warning, user169490336's units have crossed the border and are now engaged in combat with Fujiwara Nishijima.\n</p>",
+                "messageUID": 1520009,
+                "readByReceiver": false,
+                "readBySender": true,
+                "receiver": "",
+                "receiverFlagID": -1,
+                "receiverID": 9,
+                "reportCount": 0,
+                "senderFlagID": -1,
+                "senderID": 152,
+                "time": [
+                  "java.sql.Time",
+                  "10:29:54"
+                ],
+                "timeStamp": 1783585794000,
+                "title": "Deceitful Act of War"
+              }
+            ]
+          ],
+          "day": 1,
+          "ranking": {
+            "@c": "ultshared.UltRanking",
+            "initialized": true,
+            "playersRankSorted": [
+              17,
+              22,
+              5,
+              24,
+              6,
+              20,
+              16,
+              66,
+              7,
+              26,
+              12,
+              3,
+              18,
+              9,
+              21,
+              8,
+              19,
+              14,
+              89,
+              15,
+              23,
+              25,
+              33,
+              76,
+              98,
+              10,
+              28,
+              44,
+              13,
+              37,
+              81,
+              88,
+              1,
+              2,
+              47,
+              97,
+              11,
+              30,
+              52,
+              35,
+              63,
+              87,
+              4,
+              27,
+              43,
+              85,
+              96,
+              86,
+              57,
+              34,
+              40,
+              92,
+              48,
+              58,
+              32,
+              93,
+              77,
+              64,
+              82,
+              49,
+              68,
+              90,
+              91,
+              41,
+              145,
+              146,
+              29,
+              123,
+              100,
+              104,
+              127,
+              95,
+              105,
+              36,
+              59,
+              62,
+              84,
+              46,
+              54,
+              38,
+              39,
+              53,
+              55,
+              56,
+              61,
+              69,
+              74,
+              94,
+              110,
+              125,
+              31,
+              45,
+              51,
+              60,
+              65,
+              70,
+              79,
+              80,
+              99,
+              120,
+              124,
+              126,
+              153,
+              67,
+              72,
+              73,
+              78,
+              83,
+              113,
+              121,
+              142,
+              71,
+              128,
+              130,
+              143,
+              50,
+              103,
+              107,
+              111,
+              114,
+              101,
+              106,
+              108,
+              112,
+              138,
+              139,
+              140,
+              141,
+              144,
+              42,
+              75,
+              129,
+              102,
+              109,
+              116,
+              135,
+              136,
+              118,
+              150,
+              151,
+              152,
+              132,
+              147,
+              117,
+              119,
+              131,
+              133,
+              134,
+              148,
+              149,
+              115,
+              122,
+              137
+            ],
+            "ranking": [
+              0,
+              70,
+              70,
+              79,
+              67,
+              103,
+              92,
+              82,
+              76,
+              77,
+              72,
+              69,
+              80,
+              71,
+              75,
+              74,
+              85,
+              123,
+              78,
+              76,
+              86,
+              77,
+              123,
+              73,
+              93,
+              73,
+              82,
+              67,
+              72,
+              17,
+              69,
+              11,
+              57,
+              73,
+              63,
+              68,
+              14,
+              71,
+              12,
+              12,
+              63,
+              32,
+              6,
+              67,
+              72,
+              11,
+              13,
+              70,
+              60,
+              49,
+              8,
+              11,
+              69,
+              12,
+              13,
+              12,
+              12,
+              64,
+              60,
+              14,
+              11,
+              12,
+              14,
+              68,
+              52,
+              11,
+              85,
+              10,
+              44,
+              12,
+              11,
+              9,
+              10,
+              10,
+              12,
+              6,
+              73,
+              53,
+              10,
+              11,
+              11,
+              71,
+              52,
+              10,
+              14,
+              67,
+              66,
+              68,
+              71,
+              75,
+              35,
+              34,
+              62,
+              57,
+              12,
+              15,
+              67,
+              70,
+              73,
+              11,
+              16,
+              7,
+              5,
+              8,
+              16,
+              15,
+              7,
+              8,
+              7,
+              5,
+              12,
+              8,
+              7,
+              10,
+              8,
+              0,
+              5,
+              1,
+              4,
+              1,
+              11,
+              10,
+              0,
+              17,
+              11,
+              12,
+              11,
+              16,
+              9,
+              6,
+              9,
+              1,
+              2,
+              1,
+              1,
+              5,
+              5,
+              0,
+              7,
+              7,
+              7,
+              7,
+              10,
+              9,
+              7,
+              22,
+              18,
+              2,
+              1,
+              1,
+              4,
+              4,
+              4,
+              11
+            ],
+            "teamRanking": {
+              "1": 439,
+              "2": 185,
+              "3": 309,
+              "4": 67,
+              "5": 44,
+              "@c": "java.util.HashMap"
+            },
+            "teamsRankSorted": [
+              1,
+              3,
+              2,
+              4,
+              5
+            ],
+            "unifiedRankSorted": [
+              "[Lultshared.UltRankingEntry;",
+              [
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 1,
+                  "percentage": 0.07415540540540541,
+                  "points": 439,
+                  "type": "TEAM"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 17,
+                  "percentage": 0.06648648648648649,
+                  "points": 123,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 2,
+                  "percentage": 0.0625,
+                  "points": 185,
+                  "type": "TEAM"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 3,
+                  "percentage": 0.0575955265610438,
+                  "points": 309,
+                  "type": "TEAM"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 6,
+                  "percentage": 0.04972972972972973,
+                  "points": 92,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 20,
+                  "percentage": 0.046486486486486484,
+                  "points": 86,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 66,
+                  "percentage": 0.04594594594594595,
+                  "points": 85,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 7,
+                  "percentage": 0.04432432432432432,
+                  "points": 82,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 12,
+                  "percentage": 0.043243243243243246,
+                  "points": 80,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 3,
+                  "percentage": 0.042702702702702704,
+                  "points": 79,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 9,
+                  "percentage": 0.04162162162162162,
+                  "points": 77,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 8,
+                  "percentage": 0.04108108108108108,
+                  "points": 76,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 19,
+                  "percentage": 0.04108108108108108,
+                  "points": 76,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 89,
+                  "percentage": 0.04054054054054054,
+                  "points": 75,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 15,
+                  "percentage": 0.04,
+                  "points": 74,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 33,
+                  "percentage": 0.03945945945945946,
+                  "points": 73,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 76,
+                  "percentage": 0.03945945945945946,
+                  "points": 73,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 98,
+                  "percentage": 0.03945945945945946,
+                  "points": 73,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 10,
+                  "percentage": 0.03891891891891892,
+                  "points": 72,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 28,
+                  "percentage": 0.03891891891891892,
+                  "points": 72,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 44,
+                  "percentage": 0.03891891891891892,
+                  "points": 72,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 37,
+                  "percentage": 0.038378378378378375,
+                  "points": 71,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 81,
+                  "percentage": 0.038378378378378375,
+                  "points": 71,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 88,
+                  "percentage": 0.038378378378378375,
+                  "points": 71,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 1,
+                  "percentage": 0.03783783783783784,
+                  "points": 70,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 2,
+                  "percentage": 0.03783783783783784,
+                  "points": 70,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 47,
+                  "percentage": 0.03783783783783784,
+                  "points": 70,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 97,
+                  "percentage": 0.03783783783783784,
+                  "points": 70,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 11,
+                  "percentage": 0.0372972972972973,
+                  "points": 69,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 30,
+                  "percentage": 0.0372972972972973,
+                  "points": 69,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 52,
+                  "percentage": 0.0372972972972973,
+                  "points": 69,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 35,
+                  "percentage": 0.036756756756756756,
+                  "points": 68,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 63,
+                  "percentage": 0.036756756756756756,
+                  "points": 68,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 87,
+                  "percentage": 0.036756756756756756,
+                  "points": 68,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 27,
+                  "percentage": 0.036216216216216214,
+                  "points": 67,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 43,
+                  "percentage": 0.036216216216216214,
+                  "points": 67,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 85,
+                  "percentage": 0.036216216216216214,
+                  "points": 67,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 96,
+                  "percentage": 0.036216216216216214,
+                  "points": 67,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 4,
+                  "percentage": 0.036216216216216214,
+                  "points": 67,
+                  "type": "TEAM"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 86,
+                  "percentage": 0.03567567567567568,
+                  "points": 66,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 57,
+                  "percentage": 0.034594594594594595,
+                  "points": 64,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 34,
+                  "percentage": 0.03405405405405405,
+                  "points": 63,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 40,
+                  "percentage": 0.03405405405405405,
+                  "points": 63,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 92,
+                  "percentage": 0.03351351351351351,
+                  "points": 62,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 48,
+                  "percentage": 0.032432432432432434,
+                  "points": 60,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 58,
+                  "percentage": 0.032432432432432434,
+                  "points": 60,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 32,
+                  "percentage": 0.030810810810810812,
+                  "points": 57,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 93,
+                  "percentage": 0.030810810810810812,
+                  "points": 57,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 77,
+                  "percentage": 0.028648648648648647,
+                  "points": 53,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 64,
+                  "percentage": 0.02810810810810811,
+                  "points": 52,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 82,
+                  "percentage": 0.02810810810810811,
+                  "points": 52,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 49,
+                  "percentage": 0.026486486486486487,
+                  "points": 49,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 5,
+                  "percentage": 0.023783783783783784,
+                  "points": 44,
+                  "type": "TEAM"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 90,
+                  "percentage": 0.01891891891891892,
+                  "points": 35,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 91,
+                  "percentage": 0.018378378378378378,
+                  "points": 34,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 41,
+                  "percentage": 0.017297297297297298,
+                  "points": 32,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 145,
+                  "percentage": 0.011891891891891892,
+                  "points": 22,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 146,
+                  "percentage": 0.00972972972972973,
+                  "points": 18,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 29,
+                  "percentage": 0.009189189189189189,
+                  "points": 17,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 123,
+                  "percentage": 0.009189189189189189,
+                  "points": 17,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 100,
+                  "percentage": 0.008648648648648649,
+                  "points": 16,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 104,
+                  "percentage": 0.008648648648648649,
+                  "points": 16,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 127,
+                  "percentage": 0.008648648648648649,
+                  "points": 16,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 95,
+                  "percentage": 0.008108108108108109,
+                  "points": 15,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 105,
+                  "percentage": 0.008108108108108109,
+                  "points": 15,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 36,
+                  "percentage": 0.0075675675675675675,
+                  "points": 14,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 59,
+                  "percentage": 0.0075675675675675675,
+                  "points": 14,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 62,
+                  "percentage": 0.0075675675675675675,
+                  "points": 14,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 84,
+                  "percentage": 0.0075675675675675675,
+                  "points": 14,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 46,
+                  "percentage": 0.007027027027027027,
+                  "points": 13,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 54,
+                  "percentage": 0.007027027027027027,
+                  "points": 13,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 38,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 39,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 53,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 55,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 56,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 61,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 69,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 74,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 94,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 110,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 125,
+                  "percentage": 0.006486486486486486,
+                  "points": 12,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 31,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 45,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 51,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 60,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 65,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 70,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 79,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 80,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 99,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 120,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 124,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 126,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 153,
+                  "percentage": 0.005945945945945946,
+                  "points": 11,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 67,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 72,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 73,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 78,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 83,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 113,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 121,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 142,
+                  "percentage": 0.005405405405405406,
+                  "points": 10,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 71,
+                  "percentage": 0.004864864864864865,
+                  "points": 9,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 128,
+                  "percentage": 0.004864864864864865,
+                  "points": 9,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 130,
+                  "percentage": 0.004864864864864865,
+                  "points": 9,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 143,
+                  "percentage": 0.004864864864864865,
+                  "points": 9,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 50,
+                  "percentage": 0.004324324324324324,
+                  "points": 8,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 103,
+                  "percentage": 0.004324324324324324,
+                  "points": 8,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 107,
+                  "percentage": 0.004324324324324324,
+                  "points": 8,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 111,
+                  "percentage": 0.004324324324324324,
+                  "points": 8,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 114,
+                  "percentage": 0.004324324324324324,
+                  "points": 8,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 101,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 106,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 108,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 112,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 138,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 139,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 140,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 141,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 144,
+                  "percentage": 0.0037837837837837837,
+                  "points": 7,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 42,
+                  "percentage": 0.003243243243243243,
+                  "points": 6,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 75,
+                  "percentage": 0.003243243243243243,
+                  "points": 6,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 129,
+                  "percentage": 0.003243243243243243,
+                  "points": 6,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 102,
+                  "percentage": 0.002702702702702703,
+                  "points": 5,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 109,
+                  "percentage": 0.002702702702702703,
+                  "points": 5,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 116,
+                  "percentage": 0.002702702702702703,
+                  "points": 5,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 135,
+                  "percentage": 0.002702702702702703,
+                  "points": 5,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 136,
+                  "percentage": 0.002702702702702703,
+                  "points": 5,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 118,
+                  "percentage": 0.002162162162162162,
+                  "points": 4,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 150,
+                  "percentage": 0.002162162162162162,
+                  "points": 4,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 151,
+                  "percentage": 0.002162162162162162,
+                  "points": 4,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 152,
+                  "percentage": 0.002162162162162162,
+                  "points": 4,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 132,
+                  "percentage": 0.001081081081081081,
+                  "points": 2,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 147,
+                  "percentage": 0.001081081081081081,
+                  "points": 2,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 117,
+                  "percentage": 0.0005405405405405405,
+                  "points": 1,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 119,
+                  "percentage": 0.0005405405405405405,
+                  "points": 1,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 131,
+                  "percentage": 0.0005405405405405405,
+                  "points": 1,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 133,
+                  "percentage": 0.0005405405405405405,
+                  "points": 1,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 134,
+                  "percentage": 0.0005405405405405405,
+                  "points": 1,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 148,
+                  "percentage": 0.0005405405405405405,
+                  "points": 1,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 149,
+                  "percentage": 0.0005405405405405405,
+                  "points": 1,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 115,
+                  "percentage": 0.0,
+                  "points": 0,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 122,
+                  "percentage": 0.0,
+                  "points": 0,
+                  "type": "PLAYER"
+                },
+                {
+                  "@c": "ultshared.UltRankingEntry",
+                  "id": 137,
+                  "percentage": 0.0,
+                  "points": 0,
+                  "type": "PLAYER"
+                }
+              ]
+            ],
+            "winner": -1,
+            "winnerTeam": -1
+          },
+          "reportArticles": {
+            "@c": "ultshared.UltReportArticle",
+            "stateID": 0
+          },
+          "stateID": "-696005916",
+          "stateType": 2,
+          "timeStamp": "1783586290865"
+        },
+        "3": {
+          "@c": "ultshared.UltMapState",
+          "changeSet": true,
+          "map": {
+            "@c": "ultshared.UltMap",
+            "dayOfGame": 0,
+            "height": 768,
+            "isReduced": true,
+            "localizedPlayerProfiles": false,
+            "locations": [
+              "java.util.HashSet",
+              [
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 6870,
+                    "y": 1996
+                  },
+                  "ci": [
+                    13
+                  ],
+                  "co": true,
+                  "id": 5569,
+                  "o": 13,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1701,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 4,
+                        "id": 2270
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -10,
+                          "y": 16
+                        }
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 6919,
+                    "y": 2138
+                  },
+                  "ci": [
+                    13
+                  ],
+                  "co": true,
+                  "id": 5570,
+                  "o": 13,
+                  "plv": 4,
+                  "pst": 55,
+                  "r": 3,
+                  "rp": 1166,
+                  "tp": 972,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2243
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 4,
+                        "id": 2270
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -24,
+                          "y": -5
+                        }
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 9698,
+                    "y": 2905
+                  },
+                  "ci": [
+                    47
+                  ],
+                  "id": 6,
+                  "o": 47,
+                  "plv": 4,
+                  "pst": 55,
+                  "r": 7,
+                  "rp": 972,
+                  "tp": 972,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2243
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 4154,
+                    "y": 4145
+                  },
+                  "ci": [
+                    24
+                  ],
+                  "co": true,
+                  "id": 5383,
+                  "o": 24,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 5,
+                  "rp": 972,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": 9,
+                          "y": -1
+                        }
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 8685,
+                    "y": 2610
+                  },
+                  "ci": [
+                    40
+                  ],
+                  "id": 2189,
+                  "o": 40,
+                  "plv": 4,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1360,
+                  "tp": 972,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2243
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 3577,
+                    "y": 3797
+                  },
+                  "ci": [
+                    25
+                  ],
+                  "id": 2893,
+                  "o": 25,
+                  "plv": 1,
+                  "pst": 52,
+                  "r": 5,
+                  "rp": 97,
+                  "tp": 121,
+                  "tt": 12,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2240
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 7133,
+                    "y": 2191
+                  },
+                  "ci": [
+                    13
+                  ],
+                  "co": true,
+                  "id": 5581,
+                  "o": 13,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 5,
+                  "rp": 972,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -10,
+                          "y": 14
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 4,
+                        "id": 2270
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 8759,
+                    "y": 2732
+                  },
+                  "ci": [
+                    40
+                  ],
+                  "id": 2190,
+                  "o": 40,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1701,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 10600,
+                    "y": 3143
+                  },
+                  "ci": [
+                    6
+                  ],
+                  "co": true,
+                  "id": 4111,
+                  "o": 6,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 3,
+                  "rp": 1458,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -9,
+                          "y": 18
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 1,
+                        "id": 2270
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 7652,
+                    "y": 3530
+                  },
+                  "ci": [
+                    28
+                  ],
+                  "id": 4367,
+                  "o": 28,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 5,
+                  "rp": 972,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 3,
+                        "id": 2270
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 3600,
+                    "y": 3918
+                  },
+                  "ci": [
+                    25
+                  ],
+                  "id": 2896,
+                  "o": 25,
+                  "plv": 1,
+                  "pst": 52,
+                  "r": 2,
+                  "rp": 170,
+                  "tp": 121,
+                  "tt": 10,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2240
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 3380,
+                    "y": 3918
+                  },
+                  "ci": [
+                    25
+                  ],
+                  "co": true,
+                  "id": 2577,
+                  "o": 25,
+                  "plv": 1,
+                  "pst": 52,
+                  "r": 6,
+                  "rp": 170,
+                  "tp": 121,
+                  "tt": 21,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2240
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 1958,
+                    "y": 2669
+                  },
+                  "ci": [
+                    21
+                  ],
+                  "co": true,
+                  "id": 5393,
+                  "o": 21,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1701,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": 0,
+                          "y": 9
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 1,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 3484,
+                    "y": 3734
+                  },
+                  "ci": [
+                    25
+                  ],
+                  "id": 2583,
+                  "o": 25,
+                  "plv": 1,
+                  "pst": 52,
+                  "r": 7,
+                  "rp": 121,
+                  "tp": 121,
+                  "tt": 12,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2240
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 3561,
+                    "y": 3233
+                  },
+                  "ci": [
+                    68
+                  ],
+                  "co": true,
+                  "id": 2138,
+                  "o": 68,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1701,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": 0,
+                          "y": 9
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 1,
+                        "id": 2270
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 10018,
+                    "y": 2545
+                  },
+                  "ci": [
+                    47
+                  ],
+                  "id": 155,
+                  "o": 47,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1701,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 2000,
+                  "c": {
+                    "x": 4621,
+                    "y": 4075
+                  },
+                  "ci": [
+                    24
+                  ],
+                  "co": true,
+                  "id": 1758,
+                  "o": 24,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 6,
+                  "rp": 1133,
+                  "tp": 809,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -5,
+                          "y": -7
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 9728,
+                    "y": 3037
+                  },
+                  "ci": [
+                    47
+                  ],
+                  "co": true,
+                  "id": 1122,
+                  "o": 47,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 6,
+                  "rp": 1701,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -7,
+                          "y": 4
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 8608,
+                    "y": 2700
+                  },
+                  "ci": [
+                    40
+                  ],
+                  "id": 2214,
+                  "o": 40,
+                  "plv": 4,
+                  "pst": 55,
+                  "r": 6,
+                  "rp": 1360,
+                  "tp": 972,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2243
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 10030,
+                    "y": 2605
+                  },
+                  "ci": [
+                    47
+                  ],
+                  "id": 4073,
+                  "o": 47,
+                  "plv": 6,
+                  "pst": 55,
+                  "r": 3,
+                  "rp": 1607,
+                  "tp": 1339,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2296
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2245
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2255
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 7064,
+                    "y": 1829
+                  },
+                  "ci": [
+                    13
+                  ],
+                  "co": true,
+                  "id": 5804,
+                  "o": 13,
+                  "plv": 4,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1360,
+                  "tp": 972,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2243
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -8,
+                          "y": -3
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 4,
+                        "id": 2270
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 7092,
+                    "y": 1948
+                  },
+                  "ci": [
+                    13
+                  ],
+                  "co": true,
+                  "id": 5549,
+                  "o": 13,
+                  "plv": 6,
+                  "pst": 55,
+                  "r": 7,
+                  "rp": 1339,
+                  "tp": 1339,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2296
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2245
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 4,
+                        "id": 2270
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -9,
+                          "y": -4
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2255
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 7291,
+                    "y": 1944
+                  },
+                  "ci": [
+                    13
+                  ],
+                  "id": 5552,
+                  "o": 13,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 3,
+                  "rp": 1458,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 4,
+                        "id": 2270
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 8760,
+                    "y": 2536
+                  },
+                  "ci": [
+                    40
+                  ],
+                  "id": 371,
+                  "o": 40,
+                  "plv": 4,
+                  "pst": 55,
+                  "r": 7,
+                  "rp": 972,
+                  "tp": 972,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2243
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 7044,
+                    "y": 2396
+                  },
+                  "ci": [
+                    97
+                  ],
+                  "co": true,
+                  "id": 1843,
+                  "o": 97,
+                  "plv": 1,
+                  "pst": 52,
+                  "r": 2,
+                  "rp": 170,
+                  "tp": 121,
+                  "tt": 10,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 1,
+                        "id": 2503
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -7,
+                          "y": -8
+                        }
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2240
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 9799,
+                    "y": 2992
+                  },
+                  "ci": [
+                    47
+                  ],
+                  "co": true,
+                  "id": 4467,
+                  "o": 47,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 5,
+                  "rp": 972,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 5,
+                        "e": true,
+                        "id": 2016,
+                        "rp": {
+                          "x": -4,
+                          "y": 7
+                        }
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 9934,
+                    "y": 2816
+                  },
+                  "ci": [
+                    47
+                  ],
+                  "id": 57,
+                  "o": 47,
+                  "plv": 5,
+                  "pst": 55,
+                  "r": 2,
+                  "rp": 1701,
+                  "tp": 1215,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2244
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "@c": "p",
+                  "bp": 3000,
+                  "c": {
+                    "x": 7103,
+                    "y": 2045
+                  },
+                  "ci": [
+                    13
+                  ],
+                  "id": 5562,
+                  "o": 13,
+                  "plv": 4,
+                  "pst": 55,
+                  "r": 6,
+                  "rp": 1360,
+                  "tp": 972,
+                  "tt": 14,
+                  "us": [
+                    "java.util.HashSet",
+                    [
+                      {
+                        "@c": "mu",
+                        "c": 25,
+                        "e": true,
+                        "id": 2243
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 10,
+                        "e": true,
+                        "id": 2250
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 100,
+                        "e": true,
+                        "id": 2297
+                      },
+                      {
+                        "@c": "mu",
+                        "c": -1,
+                        "id": 2298
+                      },
+                      {
+                        "@c": "mu",
+                        "c": 4,
+                        "id": 2270
+                      }
+                    ]
+                  ]
+                }
+              ]
+            ],
+            "mapID": "12365_5",
+            "overlapX": 0,
+            "populationFactor": 40.0,
+            "useMinimalLocalization": false,
+            "usePopulation": false,
+            "version": 5,
+            "width": 1024
+          },
+          "properties": {
+            "@c": "java.util.HashMap"
+          },
+          "stateID": "5499705988009",
+          "stateType": 3,
+          "timeStamp": "1783586290865"
+        },
+        "@c": "java.util.HashMap"
+      },
+      "timeStamp": "1783586290865"
+    }
+  },
+  "state_ids": {
+    "1": "1005376041",
+    "11": "447945792",
+    "12": "1534328813",
+    "13": "152",
+    "14": "1402151718",
+    "15": "1706519802",
+    "19": "107",
+    "2": "784601329",
+    "23": "2046",
+    "24": "0",
+    "25": "630",
+    "28": "1",
+    "29": "17",
+    "3": "5499706225303",
+    "30": "-1896546550",
+    "4": "717639695",
+    "5": "447548413",
+    "6": "-3977711126",
+    "7": "77"
+  },
+  "time_stamps": {
+    "1": "1783586169567",
+    "11": "1783586106743",
+    "12": "1783586169567",
+    "13": "1783586106743",
+    "14": "1783586106743",
+    "15": "1783586106743",
+    "19": "1783586106743",
+    "2": "1783586230318",
+    "23": "1783586106743",
+    "24": "1783586106743",
+    "25": "1783586106743",
+    "28": "1783586106743",
+    "29": "1783586106743",
+    "3": "1783586230318",
+    "30": "1783586106743",
+    "4": "1783586106743",
+    "5": "1783586106743",
+    "6": "1783586106743",
+    "7": "1783586106743"
+  },
+  "timestamp": 1783586291
+}
